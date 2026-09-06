@@ -1,6 +1,6 @@
-name: Hypixel  # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
-display_name: Hypixel  # 用于展示的名字，可以是方便人类阅读的名字（需要版本 >= v4.5.0，低版本不会报错，请放心填写）
+name: Hypixel封禁查询  # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
+display_name: Hypixel封禁查询  # 用于展示的名字，可以是方便人类阅读的名字（需要版本 >= v4.5.0，低版本不会报错，请放心填写）
 desc: Hypixel Ban Tracker # 插件简短描述
-version: v2.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+version: v2.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: xiaoxin # 作者
 repo: https://github.com/xiaoxin-qaq/astrbot_plugin_HypixelBanTracker # 插件的仓库地址
